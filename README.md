@@ -42,4 +42,8 @@ The solutions for leetcode are pushed here.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0011-container-with-most-water) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
