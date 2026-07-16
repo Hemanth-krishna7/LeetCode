@@ -26,6 +26,7 @@ The solutions for leetcode are pushed here.
 | [0011-container-with-most-water](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0011-container-with-most-water) |
 | [1331-rank-transform-of-an-array](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Hemanth-krishna7/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Hemanth-krishna7/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,10 +36,12 @@ The solutions for leetcode are pushed here.
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Hemanth-krishna7/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0011-container-with-most-water) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Hemanth-krishna7/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -52,6 +55,7 @@ The solutions for leetcode are pushed here.
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Hemanth-krishna7/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Hemanth-krishna7/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Hemanth-krishna7/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -61,4 +65,9 @@ The solutions for leetcode are pushed here.
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Hemanth-krishna7/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Hemanth-krishna7/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Hemanth-krishna7/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Simulation
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Hemanth-krishna7/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
