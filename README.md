@@ -35,11 +35,13 @@ The solutions for leetcode are pushed here.
 | ------- |
 | [0001-two-sum](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0242-valid-anagram) |
 | [1331-rank-transform-of-an-array](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0242-valid-anagram) |
 | [1331-rank-transform-of-an-array](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Hemanth-krishna7/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
@@ -78,5 +80,6 @@ The solutions for leetcode are pushed here.
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0242-valid-anagram) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Hemanth-krishna7/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 <!---LeetCode Topics End-->
