@@ -62,6 +62,7 @@ The solutions for leetcode are pushed here.
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1291-sequential-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Hemanth-krishna7/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Math
 |  |
 | ------- |
@@ -93,6 +94,7 @@ The solutions for leetcode are pushed here.
 | [0242-valid-anagram](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0242-valid-anagram) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Hemanth-krishna7/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Hemanth-krishna7/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Binary Search
 |  |
 | ------- |
