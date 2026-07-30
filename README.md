@@ -61,6 +61,7 @@ The solutions for leetcode are pushed here.
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0011-container-with-most-water) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Hemanth-krishna7/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
@@ -92,6 +93,7 @@ The solutions for leetcode are pushed here.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Hemanth-krishna7/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Number Theory
 |  |
@@ -110,6 +112,7 @@ The solutions for leetcode are pushed here.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0242-valid-anagram](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0242-valid-anagram) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Hemanth-krishna7/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
