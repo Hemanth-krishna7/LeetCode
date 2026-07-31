@@ -14,6 +14,7 @@ The solutions for leetcode are pushed here.
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [2685-count-the-number-of-complete-components](https://github.com/Hemanth-krishna7/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
@@ -25,6 +26,7 @@ The solutions for leetcode are pushed here.
 | [0001-two-sum](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -49,6 +51,7 @@ The solutions for leetcode are pushed here.
 | [0001-two-sum](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0347-top-k-frequent-elements) |
