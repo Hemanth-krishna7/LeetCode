@@ -26,6 +26,7 @@ The solutions for leetcode are pushed here.
 | [0011-container-with-most-water](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1260-shift-2d-grid) |
@@ -49,6 +50,7 @@ The solutions for leetcode are pushed here.
 | [0049-group-anagrams](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Hemanth-krishna7/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -59,6 +61,7 @@ The solutions for leetcode are pushed here.
 | [0049-group-anagrams](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -143,6 +146,7 @@ The solutions for leetcode are pushed here.
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Hemanth-krishna7/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Hemanth-krishna7/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Prefix Sum
@@ -174,6 +178,7 @@ The solutions for leetcode are pushed here.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting Sort
 |  |
@@ -183,4 +188,16 @@ The solutions for leetcode are pushed here.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
