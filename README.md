@@ -7,10 +7,12 @@ The solutions for leetcode are pushed here.
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/Hemanth-krishna7/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/Hemanth-krishna7/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/Hemanth-krishna7/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/Hemanth-krishna7/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
 | ------- |
@@ -20,6 +22,7 @@ The solutions for leetcode are pushed here.
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/Hemanth-krishna7/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/Hemanth-krishna7/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Array
 |  |
 | ------- |
