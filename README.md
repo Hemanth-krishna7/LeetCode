@@ -30,6 +30,7 @@ The solutions for leetcode are pushed here.
 | [0011-container-with-most-water](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -73,6 +74,7 @@ The solutions for leetcode are pushed here.
 | ------- |
 | [0015-3sum](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -90,6 +92,7 @@ The solutions for leetcode are pushed here.
 | [0011-container-with-most-water](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0075-sort-colors](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0075-sort-colors) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Hemanth-krishna7/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
@@ -241,4 +244,12 @@ The solutions for leetcode are pushed here.
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
