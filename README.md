@@ -96,6 +96,7 @@ The solutions for leetcode are pushed here.
 | [0015-3sum](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0075-sort-colors) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Hemanth-krishna7/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Hemanth-krishna7/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
@@ -104,6 +105,7 @@ The solutions for leetcode are pushed here.
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Hemanth-krishna7/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Hemanth-krishna7/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Hemanth-krishna7/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Hemanth-krishna7/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Enumeration
 |  |
@@ -139,6 +141,7 @@ The solutions for leetcode are pushed here.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0877-stone-game) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Hemanth-krishna7/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Hemanth-krishna7/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Number Theory
 |  |
@@ -166,6 +169,7 @@ The solutions for leetcode are pushed here.
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Hemanth-krishna7/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Hemanth-krishna7/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Hemanth-krishna7/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Hemanth-krishna7/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Hemanth-krishna7/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Hemanth-krishna7/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Hemanth-krishna7/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
