@@ -124,6 +124,7 @@ The solutions for leetcode are pushed here.
 | [0877-stone-game](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1140-stone-game-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1510-stone-game-iv](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Hemanth-krishna7/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Hemanth-krishna7/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -144,6 +145,7 @@ The solutions for leetcode are pushed here.
 | [0486-predict-the-winner](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Hemanth-krishna7/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Hemanth-krishna7/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Number Theory
@@ -261,6 +263,7 @@ The solutions for leetcode are pushed here.
 | [0486-predict-the-winner](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1510-stone-game-iv) |
 ## Linked List
 |  |
 | ------- |
@@ -281,8 +284,18 @@ The solutions for leetcode are pushed here.
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
