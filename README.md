@@ -49,6 +49,7 @@ The solutions for leetcode are pushed here.
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Hemanth-krishna7/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Hemanth-krishna7/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Hemanth-krishna7/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Hemanth-krishna7/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Hemanth-krishna7/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -70,6 +71,7 @@ The solutions for leetcode are pushed here.
 | [0560-subarray-sum-equals-k](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Hemanth-krishna7/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Hemanth-krishna7/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Hemanth-krishna7/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Hemanth-krishna7/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -244,6 +246,7 @@ The solutions for leetcode are pushed here.
 | [0003-longest-substring-without-repeating-characters](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Hemanth-krishna7/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Divide and Conquer
 |  |
 | ------- |
