@@ -1,12 +1,17 @@
 class Solution {
-    public int[] replaceElements(int[] nums) {
-        int n = nums.length;
-	int[] ans = new int[n];
-	int rightmax = -1;
-	for(int i = n-1;i>=0;i--) {
-		ans[i] = rightmax;
-		rightmax = Math.max(rightmax, nums[i]);
-	}
-	return ans;
+    public int[] replaceElements(int[] arr) {
+
+        int maxRight = -1;
+
+        for (int i = arr.length - 1; i >= 0; i--) {
+
+            int current = arr[i];
+
+            arr[i] = maxRight;
+
+            maxRight = Math.max(maxRight, current);
+        }
+
+        return arr;
     }
 }
