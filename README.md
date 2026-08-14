@@ -43,6 +43,7 @@ The solutions for leetcode are pushed here.
 | [0628-maximum-product-of-three-numbers](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0733-flood-fill](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0733-flood-fill) |
+| [0867-transpose-matrix](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1260-shift-2d-grid) |
@@ -169,6 +170,7 @@ The solutions for leetcode are pushed here.
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Hemanth-krishna7/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
@@ -227,6 +229,7 @@ The solutions for leetcode are pushed here.
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0733-flood-fill) |
+| [0867-transpose-matrix](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1260-shift-2d-grid) |
 ## Segment Tree
 |  |
