@@ -83,6 +83,7 @@ The solutions for leetcode are pushed here.
 | [3875-construct-uniform-parity-array-i](https://github.com/Hemanth-krishna7/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Hemanth-krishna7/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Hemanth-krishna7/LeetCode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Hemanth-krishna7/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -277,6 +278,7 @@ The solutions for leetcode are pushed here.
 | [1872-stone-game-viii](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Hemanth-krishna7/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3903-smallest-stable-index-i](https://github.com/Hemanth-krishna7/LeetCode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Hemanth-krishna7/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Stack
 |  |
 | ------- |
