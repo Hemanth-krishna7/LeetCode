@@ -197,6 +197,7 @@ The solutions for leetcode are pushed here.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0115-distinct-subsequences](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0877-stone-game) |
@@ -229,6 +230,7 @@ The solutions for leetcode are pushed here.
 | [0005-longest-palindromic-substring](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0049-group-anagrams) |
+| [0115-distinct-subsequences](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0242-valid-anagram](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0242-valid-anagram) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
