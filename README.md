@@ -59,6 +59,7 @@ The solutions for leetcode are pushed here.
 | [1331-rank-transform-of-an-array](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1563-stone-game-v) |
 | [1652-defuse-the-bomb](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [1872-stone-game-viii](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1872-stone-game-viii) |
@@ -102,6 +103,7 @@ The solutions for leetcode are pushed here.
 | [0560-subarray-sum-equals-k](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Hemanth-krishna7/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Hemanth-krishna7/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -216,6 +218,7 @@ The solutions for leetcode are pushed here.
 | [0877-stone-game](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1140-stone-game-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -271,6 +274,7 @@ The solutions for leetcode are pushed here.
 ## Binary Search
 |  |
 | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Hemanth-krishna7/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Hemanth-krishna7/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Hemanth-krishna7/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -348,6 +352,7 @@ The solutions for leetcode are pushed here.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1652-defuse-the-bomb](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Hemanth-krishna7/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
