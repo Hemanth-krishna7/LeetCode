@@ -16,6 +16,7 @@ The solutions for leetcode are pushed here.
 | ------- |
 | [0463-island-perimeter](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0733-flood-fill) |
+| [1096-brace-expansion-ii](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [2685-count-the-number-of-complete-components](https://github.com/Hemanth-krishna7/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Hemanth-krishna7/LeetCode/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Hemanth-krishna7/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -104,6 +105,7 @@ The solutions for leetcode are pushed here.
 | [0242-valid-anagram](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1096-brace-expansion-ii](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -132,6 +134,7 @@ The solutions for leetcode are pushed here.
 | [0242-valid-anagram](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1096-brace-expansion-ii](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -266,6 +269,7 @@ The solutions for leetcode are pushed here.
 | [0242-valid-anagram](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0242-valid-anagram) |
 | [0940-distinct-subsequences-ii](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1927-sum-game](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1927-sum-game) |
@@ -327,6 +331,7 @@ The solutions for leetcode are pushed here.
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1096-brace-expansion-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -420,6 +425,7 @@ The solutions for leetcode are pushed here.
 ## Backtracking
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Hemanth-krishna7/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Minimax
 |  |
