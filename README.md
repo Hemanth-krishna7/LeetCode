@@ -270,6 +270,7 @@ The solutions for leetcode are pushed here.
 | [0003-longest-substring-without-repeating-characters](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0049-group-anagrams) |
 | [0115-distinct-subsequences](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0242-valid-anagram](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0242-valid-anagram) |
@@ -340,6 +341,7 @@ The solutions for leetcode are pushed here.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0020-valid-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -484,6 +486,7 @@ The solutions for leetcode are pushed here.
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
