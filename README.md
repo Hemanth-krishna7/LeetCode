@@ -8,6 +8,7 @@ The solutions for leetcode are pushed here.
 | ------- |
 | [0463-island-perimeter](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0733-flood-fill) |
+| [1254-number-of-closed-islands](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Hemanth-krishna7/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/Hemanth-krishna7/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Hemanth-krishna7/LeetCode/tree/master/3310-remove-methods-from-project) |
@@ -18,6 +19,7 @@ The solutions for leetcode are pushed here.
 | [0463-island-perimeter](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0733-flood-fill) |
 | [1096-brace-expansion-ii](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [2685-count-the-number-of-complete-components](https://github.com/Hemanth-krishna7/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Hemanth-krishna7/LeetCode/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Hemanth-krishna7/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -25,6 +27,7 @@ The solutions for leetcode are pushed here.
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [1254-number-of-closed-islands](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [2685-count-the-number-of-complete-components](https://github.com/Hemanth-krishna7/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Hemanth-krishna7/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Graph Theory
@@ -55,6 +58,7 @@ The solutions for leetcode are pushed here.
 | [0867-transpose-matrix](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -409,6 +413,7 @@ The solutions for leetcode are pushed here.
 | [0733-flood-fill](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0867-transpose-matrix) |
+| [1254-number-of-closed-islands](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1260-shift-2d-grid) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Hemanth-krishna7/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Hemanth-krishna7/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
