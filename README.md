@@ -53,6 +53,7 @@ The solutions for leetcode are pushed here.
 | [0217-contains-duplicate](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0463-island-perimeter) |
 | [0486-predict-the-winner](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -165,6 +166,7 @@ The solutions for leetcode are pushed here.
 | [0217-contains-duplicate](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1096-brace-expansion-ii](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -234,6 +236,7 @@ The solutions for leetcode are pushed here.
 | [0007-reverse-integer](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0013-roman-to-integer) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0836-rectangle-overlap) |
