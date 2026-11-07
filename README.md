@@ -78,6 +78,7 @@ The solutions for leetcode are pushed here.
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1872-stone-game-viii) |
+| [1882-process-tasks-using-servers](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1882-process-tasks-using-servers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Hemanth-krishna7/LeetCode/tree/master/2029-stone-game-ix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Hemanth-krishna7/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -469,6 +470,7 @@ The solutions for leetcode are pushed here.
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Hemanth-krishna7/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1882-process-tasks-using-servers](https://github.com/Hemanth-krishna7/LeetCode/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Hemanth-krishna7/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Hemanth-krishna7/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Hemanth-krishna7/LeetCode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
